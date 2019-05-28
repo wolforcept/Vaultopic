@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vaultopic",
+  "name": "Vaultopic",
+  "description": "Vaultopic Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Wolforce"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [JEI]
+}
+]

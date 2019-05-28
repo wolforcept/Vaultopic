@@ -1,0 +1,15 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TB",
+	"BH"
+  ],
+  "key": {
+	"T": [{ "item": "minecraft:redstone_torch" }],
+	"H": [{ "item": "minecraft:hopper" }],
+	"B": [{ "item": "minecraft:brick" }]
+  },
+  "result": {
+    "item": "vaultopic:vault_searcher"
+  }
+}

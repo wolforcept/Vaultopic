@@ -1,0 +1,16 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TBT",
+	"BOB",
+	"TBT"
+  ],
+  "key": {
+	"T": [{ "item": "vaultopic:vault_searcher" }],
+	"B": [{ "item": "minecraft:iron_ingot" }],
+	"O": [{ "item": "minecraft:obsidian" }]
+  },
+  "result": {
+    "item": "vaultopic:view_small"
+  }
+}

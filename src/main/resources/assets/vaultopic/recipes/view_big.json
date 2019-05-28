@@ -1,0 +1,12 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C"
+  ],
+  "key": {
+	"C": [{ "item": "vaultopic:view_small" }]
+  },
+  "result": {
+    "item": "vaultopic:view_big"
+  }
+}
