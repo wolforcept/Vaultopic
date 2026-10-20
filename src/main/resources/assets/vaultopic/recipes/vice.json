@@ -1,0 +1,16 @@
+{ 
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"DCD",
+	"TOT"
+  ],
+  "key": {
+	"T": [{ "item": "vaultopic:vault_searcher" }],
+	"C": [{ "item": "minecraft:crafting_table" }],
+	"D": [{ "item": "minecraft:diamond" }],
+	"O": [{ "item": "vaultopic:view_big" }]
+  },
+  "result": {
+    "item": "vaultopic:vice"
+  }
+}

@@ -1,10 +1,14 @@
 { 
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "C"
+    "RBR",
+	"TOT"
   ],
   "key": {
-	"C": [{ "item": "vaultopic:view_small" }]
+	"R": [{ "item": "minecraft:redstone" }],
+	"T": [{ "item": "vaultopic:vault_searcher" }],
+	"B": [{ "item": "minecraft:ender_pearl" }],
+	"O": [{ "item": "vaultopic:view_small" }]
   },
   "result": {
     "item": "vaultopic:view_big"
